@@ -3,7 +3,12 @@
 .card-image {
   max-width: 100%;
   height: auto;
-  width: 250px;
+  width: 300px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .card-title {
   color: $titleColor;
@@ -63,14 +68,14 @@
 }
 
 .project-card-footer span.project-tag {
-  background: $buttonColor;
-  color: $lightBackground3;
+  // background: $buttonColor;
+  color: $buttonColor;
   vertical-align: middle;
   align-items: center;
   border-radius: 4px;
   display: inline-flex;
-  font-size: 0.75rem;
-  height: 2em;
+  font-size: 0.9rem;
+  height: 2.5em;
   justify-content: center;
   white-space: nowrap;
   line-height: 1.5;
@@ -78,6 +83,10 @@
   padding: 0 0.75em;
   cursor: pointer;
   transition: 0.2s ease-in;
+  &:hover{
+      // opacity: 0.75;
+      font-weight: bolder;
+    }
 }
 
 @media (max-width: 768px) {
