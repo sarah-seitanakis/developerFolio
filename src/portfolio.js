@@ -130,7 +130,7 @@ https://fontawesome.com/icons?d=gallery */
     {
         skillName: "stack-overflow",
         fontAwesomeClassname: "fab fa-stack-overflow"
-      },
+    },
     // {
     //   skillName: "docker",
     //   fontAwesomeClassname: "fab fa-docker"
@@ -191,23 +191,23 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-        role: "Research Engineer",
-        company: "CoVar",
-        companylogo: require("./assets/images/CoVarLogo.png"),
-        date: "September 2020 – Present",
-        desc: "At CoVar I contribute to several large scale projects, which has given me the opportunity to learn and grow as a developer.",
-        descBullets: [
-          "Creates high-fidelity, interactive prototypes/designs of web applications for developers to implement.",
-          "Conducts interviews with users to produce relevant feedback for developers.",
-          "Writes software to the specification of team leads using Python 3.",
-          "Follows formatting standards to create readable, concise code.",
-          "Provides code reviews for other developers’ GitHub Pull Requests.",
-          "Carries out statistical studies to determine performance of machine learning models.",
-          "Analyzes data and creates complex data visualizations.",
-          "Presents materials to customers on a regular basis."
-        ]
-      },
-      {
+      role: "Research Engineer",
+      company: "CoVar",
+      companylogo: require("./assets/images/CoVarLogo.png"),
+      date: "September 2020 – Present",
+      desc: "At CoVar I contribute to several large scale projects, which has given me the opportunity to learn and grow as a developer.",
+      descBullets: [
+        "Creates high-fidelity, interactive prototypes/designs of web applications for developers to implement.",
+        "Conducts interviews with users to produce relevant feedback for developers.",
+        "Writes software to the specification of team leads using Python 3.",
+        "Follows formatting standards to create readable, concise code.",
+        "Provides code reviews for other developers’ GitHub Pull Requests.",
+        "Carries out statistical studies to determine performance of machine learning models.",
+        "Analyzes data and creates complex data visualizations.",
+        "Presents materials to customers on a regular basis."
+      ]
+    },
+    {
       role: "User Experience Designer",
       company: "The Dev Shop",
       companylogo: require("./assets/images/devshoplogo.png"),
@@ -222,18 +222,18 @@ const workExperiences = {
       ]
     },
     {
-        role: "Computational Astrophysics Researcher",
-        company: "Allegheny Physics Department",
-        companylogo: require("./assets/images/AlleghenyLogo.png"),
-        date: "July 2019 – June 2020",
-        desc: "As a researcher in Dr. James C. Lombardi's lab, I got to explore and solve exciting computational problems and work collaboratively in a team.",
-        descBullets: [
-          "Collaborated with a 3-student team to write a new one-dimensional smoothed particle hydrodynamics code.",
-          "Authored a tutorial on how to use the astrophysical simulation code and the data visualization programs",
-          "Developed creative design for marketing paCreated site layout and user interface using HTML and CSS practices to give students and other researchers access to the aforementioned tutorial.ckages, including logos, web materials, and brochures",
-          "Implemented version control using Git; updated and maintained the GitHub webpage for research group",
-        ]
-      },
+      role: "Computational Astrophysics Researcher",
+      company: "Allegheny Physics Department",
+      companylogo: require("./assets/images/AlleghenyLogo.png"),
+      date: "July 2019 – June 2020",
+      desc: "As a researcher in Dr. James C. Lombardi's lab, I got to explore and solve exciting computational problems and work collaboratively in a team.",
+      descBullets: [
+        "Collaborated with a 3-student team to write a new one-dimensional smoothed particle hydrodynamics code.",
+        "Authored a tutorial on how to use the astrophysical simulation code and the data visualization programs",
+        "Developed creative design for marketing paCreated site layout and user interface using HTML and CSS practices to give students and other researchers access to the aforementioned tutorial.ckages, including logos, web materials, and brochures",
+        "Implemented version control using Git; updated and maintained the GitHub webpage for research group",
+      ]
+    },
   ]
 };
 
