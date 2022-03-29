@@ -10,10 +10,16 @@ export default function Footer() {
     <Fade bottom duration={1000} distance="5px">
       <div className="footer-div">
         <p></p>
-        <p style={{"font-size" : 11}} className={isDark ? "dark-mode footer-text" : "footer-text"}>
+        <p
+          style={{"font-size": 11}}
+          className={isDark ? "dark-mode footer-text" : "footer-text"}
+        >
           {emoji("Made with ❤️ by DeveloperFolio Team")}
         </p>
-        <p style={{"font-size" : 10}} className={isDark ? "dark-mode footer-text" : "footer-text"}>
+        <p
+          style={{"font-size": 10}}
+          className={isDark ? "dark-mode footer-text" : "footer-text"}
+        >
           Theme by{" "}
           <a href="https://github.com/saadpasta/developerFolio">
             developerFolio

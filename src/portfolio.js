@@ -36,10 +36,10 @@ const socialMediaLinks = {
   github: "https://github.com/sarah-seitanakis",
   linkedin: "www.linkedin.com/in/sarah-seitanakis-47b22318a",
   gmail: "sseitanakis@gmail.com",
-//   gitlab: "https://gitlab.com/",
-//   facebook: "https://www.facebook.com/",
-//   medium: "https://medium.com/",
-//   stackoverflow: "https://stackoverflow.com/users/",
+  //   gitlab: "https://gitlab.com/",
+  //   facebook: "https://www.facebook.com/",
+  //   medium: "https://medium.com/",
+  //   stackoverflow: "https://stackoverflow.com/users/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -54,13 +54,11 @@ const skillsSection = {
     emoji(
       "⚡ Develops highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Conducts interviews with users to produce relevant feedback for developers"),
     emoji(
-      "⚡ Works in teams of both technical and design professionals"
+      "⚡ Conducts interviews with users to produce relevant feedback for developers"
     ),
-    emoji(
-        "⚡ Analyzes data and creates complex data visualizations"
-      )
+    emoji("⚡ Works in teams of both technical and design professionals"),
+    emoji("⚡ Analyzes data and creates complex data visualizations")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -68,16 +66,16 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-        skillName: "linux",
-        fontAwesomeClassname: "fab fa-linux"
+      skillName: "linux",
+      fontAwesomeClassname: "fab fa-linux"
     },
     {
-        skillName: "apple",
-        fontAwesomeClassname: "fab fa-apple"
+      skillName: "apple",
+      fontAwesomeClassname: "fab fa-apple"
     },
     {
-        skillName: "sketch",
-        fontAwesomeClassname: "fab fa-sketch"
+      skillName: "sketch",
+      fontAwesomeClassname: "fab fa-sketch"
     },
     {
       skillName: "git",
@@ -128,9 +126,9 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-        skillName: "stack-overflow",
-        fontAwesomeClassname: "fab fa-stack-overflow"
-    },
+      skillName: "stack-overflow",
+      fontAwesomeClassname: "fab fa-stack-overflow"
+    }
     // {
     //   skillName: "docker",
     //   fontAwesomeClassname: "fab fa-docker"
@@ -147,7 +145,8 @@ const educationInfo = {
     {
       schoolName: "Allegheny College",
       logo: require("./assets/images/AlleghenyCollegeLogo.png"),
-      subHeader: "Bachelor of Science in Physics – Studio Art & Mathematics Minors",
+      subHeader:
+        "Bachelor of Science in Physics – Studio Art & Mathematics Minors",
       duration: "August 2015 - May 2020",
       desc: "My education was rigorous in both science and visual arts. This background gives me a unique approach to problem solving and ideation. Through completing my Senior Thesis, I learned how to take the lead on a large, independently motivated project. Presenting and defending this project solidified my oral and written communication skills.",
       descBullets: [
@@ -157,10 +156,9 @@ const educationInfo = {
         "Mathematics courses featured Linear Algebra, Multivariate Calculus, Differential Equations, and other advanced topics",
         "Highlight Studio Art courses: 'The Creative Process' course, Art History, Art & Technology, and an advanced project series in Ceramics",
         "Excelled at the Writing and Comunication portions of Allegheny's curriculum",
-        "Recieved Latin Honors: Magna Cum Laude",
+        "Recieved Latin Honors: Magna Cum Laude"
       ]
-    },
-    
+    }
   ]
 };
 
@@ -231,9 +229,9 @@ const workExperiences = {
         "Collaborated with a 3-student team to write a new one-dimensional smoothed particle hydrodynamics code.",
         "Authored a tutorial on how to use the astrophysical simulation code and the data visualization programs",
         "Developed creative design for marketing paCreated site layout and user interface using HTML and CSS practices to give students and other researchers access to the aforementioned tutorial.ckages, including logos, web materials, and brochures",
-        "Implemented version control using Git; updated and maintained the GitHub webpage for research group",
+        "Implemented version control using Git; updated and maintained the GitHub webpage for research group"
       ]
-    },
+    }
   ]
 };
 
@@ -253,8 +251,10 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/project-images/SeniorThesis/starsmasherFigure.png"),
-      projectName: "Senior Thesis - Simulating Black Hole Accretion & Feedback During a Collision with a Star",
-      projectDesc: "Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
+      projectName:
+        "Senior Thesis - Simulating Black Hole Accretion & Feedback During a Collision with a Star",
+      projectDesc:
+        "Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
       footerLink: [
         {
           name: "Veiw Paper",
@@ -274,7 +274,8 @@ const bigProjects = {
     {
       image: require("./assets/images/project-images/Hopsify_Logo_thumbnail.jpg"),
       projectName: "Hopsify",
-      projectDesc: "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
+      projectDesc:
+        "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
       footerLink: [
         {
           name: "View Web App",
@@ -299,31 +300,33 @@ const bigProjects = {
       ]
     },
     {
-    image: require("./assets/images/project-images/Teachers_Protect_Logo_thumbnail.jpg"),
-    projectName: "Teachers Protect",
-    projectDesc: "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
-    footerLink: [
-      {
-        name: "Veiw Pamphlet",
-        url: "https://drive.google.com/file/d/1dwnMaAQBuzldqEtAcEgTKH9cgyMwUKOg/view?usp=sharing"
-      },
-      {
-        name: "Veiw Logo & Info",
-        url: "https://xd.adobe.com/view/c7435fe1-3b20-4ee5-7189-f98412cb51ee-b172/"
-      }
-    ]
-  },
-  {
-    image: require("./assets/images/project-images/Sportivo_logo_thumbnail.jpg"),
-    projectName: "Sportivo Baleno",
-    projectDesc: "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
-    footerLink: [
-      {
-        name: "Veiw Logo & Info",
-        url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
-      },
-    ]
-  },
+      image: require("./assets/images/project-images/Teachers_Protect_Logo_thumbnail.jpg"),
+      projectName: "Teachers Protect",
+      projectDesc:
+        "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
+      footerLink: [
+        {
+          name: "Veiw Pamphlet",
+          url: "https://drive.google.com/file/d/1dwnMaAQBuzldqEtAcEgTKH9cgyMwUKOg/view?usp=sharing"
+        },
+        {
+          name: "Veiw Logo & Info",
+          url: "https://xd.adobe.com/view/c7435fe1-3b20-4ee5-7189-f98412cb51ee-b172/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/project-images/Sportivo_logo_thumbnail.jpg"),
+      projectName: "Sportivo Baleno",
+      projectDesc:
+        "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
+      footerLink: [
+        {
+          name: "Veiw Logo & Info",
+          url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
+        }
+      ]
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -444,8 +447,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Want to connect? My Inbox is open for all.",
+  subtitle: "Want to connect? My Inbox is open for all.",
   number: "(412)722-8560",
   email_address: "sseitanakis@gmail.com"
 };
