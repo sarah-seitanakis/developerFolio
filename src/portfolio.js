@@ -224,7 +224,7 @@ const workExperiences = {
     {
         role: "Computational Astrophysics Researcher",
         company: "Allegheny Physics Department",
-        companylogo: require("./assets/images/AlleghenyCollegeLogo.png"),
+        companylogo: require("./assets/images/AlleghenyLogo.png"),
         date: "July 2019 – June 2020",
         desc: "As a researcher in Dr. James C. Lombardi's lab, I got to explore and solve exciting computational problems and work collaboratively in a team.",
         descBullets: [
