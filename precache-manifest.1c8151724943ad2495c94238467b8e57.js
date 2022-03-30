@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2df692b3cf03103182bb3d9009d1a18",
+    "revision": "36de6d603c323b67198ea212fd02d420",
     "url": "/developerFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "bf987c8a219b1c6bdb36",
+    "revision": "48d5b8deff5cf5bddf21",
     "url": "/developerFolio/static/css/main.7354f574.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/4.011c95b8.chunk.js"
   },
   {
-    "revision": "bf987c8a219b1c6bdb36",
-    "url": "/developerFolio/static/js/main.0fb182f0.chunk.js"
+    "revision": "48d5b8deff5cf5bddf21",
+    "url": "/developerFolio/static/js/main.4fe65a21.chunk.js"
   },
   {
     "revision": "45fa6910bca51af9893c",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/CoVarLogo.3937699b.png"
   },
   {
-    "revision": "9a8760b5e3bdb4e5e1ef341333dc8a3b",
-    "url": "/developerFolio/static/media/Hopsify_distrib_thumbnail.9a8760b5.jpg"
+    "revision": "8e4710fa8a658a99c37cf23659159dc3",
+    "url": "/developerFolio/static/media/Hopsify_Logo_thumbnail.8e4710fa.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/Sportivo_Logo_thumbnail.6cc6cb9e.jpg"
   },
   {
-    "revision": "09855a7ed798b113f5bd91b049b40bfd",
-    "url": "/developerFolio/static/media/Teachers_Protect_brochure_thumbnail.09855a7e.jpg"
+    "revision": "997cedff6bf9b6f14031021c1c57cf1a",
+    "url": "/developerFolio/static/media/Teachers_Protect_Logo_thumbnail.997cedff.jpg"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
