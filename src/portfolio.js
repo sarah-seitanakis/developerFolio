@@ -259,19 +259,19 @@ const bigProjects = {
           name: "Veiw Paper",
           url: "https://drive.google.com/file/d/1PW1WLiLfkDXCPxbBkUtcdQMTl4FLFJT4/view?usp=sharing"
         },
-        {
-          name: "Veiw Poster",
-          url: ""
-        },
-        {
-          name: "Veiw Slides",
-          url: ""
-        }
+        // {
+        //   name: "Veiw Poster",
+        //   url: ""
+        // },
+        // {
+        //   name: "Veiw Slides",
+        //   url: ""
+        // }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/project-images/Hopsify_distrib_thumbnail.jpg"),
+      image: require("./assets/images/project-images/Hopsify_Logo_thumbnail.jpg"),
       projectName: "Hopsify",
       projectDesc:
         "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
@@ -299,7 +299,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/Teachers_Protect_brochure_thumbnail.jpg"),
+      image: require("./assets/images/project-images/Teachers_Protect_Logo_thumbnail.jpg"),
       projectName: "Teachers Protect",
       projectDesc:
         "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
