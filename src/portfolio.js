@@ -299,7 +299,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/TeachersProtect_brochure_thumbnail.jpg"),
+      image: require("./assets/images/project-images/Teachers_Protect_brochure_thumbnail.jpg"),
       projectName: "Teachers Protect",
       projectDesc:
         "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
