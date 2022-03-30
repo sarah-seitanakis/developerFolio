@@ -252,9 +252,9 @@ const bigProjects = {
     {
       image: require("./assets/images/project-images/SeniorThesis/starsmasherFigure.png"),
       projectName:
-        "Senior Thesis - Simulating Black Hole Accretion & Feedback During a Collision with a Star",
+        "Senior Thesis",
       projectDesc:
-        "Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
+        "Simulating Black Hole Accretion & Feedback During a Collision with a Star – Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
       footerLink: [
         {
           name: "Veiw Paper",
@@ -272,7 +272,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/Hopsify_Logo_thumbnail.jpg"),
+      image: require("./assets/images/project-images/Hopsify_distrib_thumbnail.jpg"),
       projectName: "Hopsify",
       projectDesc:
         "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
@@ -300,7 +300,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/TeachersProtect_Logo_thumbnail.jpg"),
+      image: require("./assets/images/project-images/TeachersProtect_brochure_thumbnail.jpg"),
       projectName: "Teachers Protect",
       projectDesc:
         "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
