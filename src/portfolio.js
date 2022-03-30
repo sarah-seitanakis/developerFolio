@@ -271,6 +271,18 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/project-images/Sportivo_Logo_thumbnail.jpg"),
+      projectName: "Sportivo Baleno",
+      projectDesc:
+        "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
+      footerLink: [
+        {
+          name: "Veiw Logo & Info",
+          url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/project-images/Hopsify_Logo_thumbnail.jpg"),
       projectName: "Hopsify",
       projectDesc:
@@ -311,18 +323,6 @@ const bigProjects = {
         {
           name: "Veiw Logo & Info",
           url: "https://xd.adobe.com/view/c7435fe1-3b20-4ee5-7189-f98412cb51ee-b172/"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/project-images/Sportivo_Logo_thumbnail.jpg"),
-      projectName: "Sportivo Baleno",
-      projectDesc:
-        "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
-      footerLink: [
-        {
-          name: "Veiw Logo & Info",
-          url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
         }
       ]
     }
