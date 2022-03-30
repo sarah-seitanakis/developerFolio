@@ -258,7 +258,7 @@ const bigProjects = {
         {
           name: "Veiw Paper",
           url: "https://drive.google.com/file/d/1PW1WLiLfkDXCPxbBkUtcdQMTl4FLFJT4/view?usp=sharing"
-        },
+        }
         // {
         //   name: "Veiw Poster",
         //   url: ""
