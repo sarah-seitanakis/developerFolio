@@ -251,8 +251,7 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/project-images/SeniorThesis/starsmasherFigure.png"),
-      projectName:
-        "Senior Thesis",
+      projectName: "Senior Thesis",
       projectDesc:
         "Simulating Black Hole Accretion & Feedback During a Collision with a Star – Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
       footerLink: [
