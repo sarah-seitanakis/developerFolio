@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ab5e138a4725746cb0a6a1d95fe4ab0",
+    "revision": "58246dd0b4ebf78c24fb3c91e11d8a86",
     "url": "/developerFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "401c7cda100c0b5f8df5",
+    "revision": "9d1a1afa22937522329a",
     "url": "/developerFolio/static/css/main.7354f574.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/4.011c95b8.chunk.js"
   },
   {
-    "revision": "401c7cda100c0b5f8df5",
-    "url": "/developerFolio/static/js/main.c463027a.chunk.js"
+    "revision": "9d1a1afa22937522329a",
+    "url": "/developerFolio/static/js/main.b1982735.chunk.js"
   },
   {
     "revision": "45fa6910bca51af9893c",
@@ -57,7 +57,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8e4710fa8a658a99c37cf23659159dc3",
-    "url": "/developerFolio/static/media/Hopsify-Logo_thumbnail.8e4710fa.jpg"
+    "url": "/developerFolio/static/media/Hopsify_Logo_thumbnail.8e4710fa.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -65,11 +65,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6cc6cb9e254e7b7aa7c909cfe88b2a33",
-    "url": "/developerFolio/static/media/SportivoBaleno-Logo_thumbnail.6cc6cb9e.jpg"
+    "url": "/developerFolio/static/media/Sportivo_Logo_thumbnail.6cc6cb9e.jpg"
   },
   {
     "revision": "997cedff6bf9b6f14031021c1c57cf1a",
-    "url": "/developerFolio/static/media/TeachersProtect-Logo_thumbnail.997cedff.jpg"
+    "url": "/developerFolio/static/media/TeachersProtect_Logo_thumbnail.997cedff.jpg"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
