@@ -49,7 +49,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CREATIVE PROBLEM-SOLVER WHO DOES WHATEVER IT TAKES TO FIND A SOLUTION",
+  subTitle:
+    "CREATIVE PROBLEM-SOLVER WHO DOES WHATEVER IT TAKES TO FIND A SOLUTION",
   skills: [
     emoji(
       "⚡ Develops highly interactive Front end / User Interfaces for your web and mobile applications"
