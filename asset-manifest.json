@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.7354f574.chunk.css",
-    "main.js": "/developerFolio/static/js/main.03d581fc.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.03d581fc.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.c463027a.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.c463027a.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.da018c69.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.da018c69.js.map",
     "static/js/2.aeff588d.chunk.js": "/developerFolio/static/js/2.aeff588d.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.011c95b8.chunk.js": "/developerFolio/static/js/4.011c95b8.chunk.js",
     "static/js/4.011c95b8.chunk.js.map": "/developerFolio/static/js/4.011c95b8.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.65db12aba297d235ba00afddf6ad515f.js": "/developerFolio/precache-manifest.65db12aba297d235ba00afddf6ad515f.js",
+    "precache-manifest.25c27a1ca5b7140498a458ef7fe52101.js": "/developerFolio/precache-manifest.25c27a1ca5b7140498a458ef7fe52101.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/developerFolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/developerFolio/static/css/4.e91a4b36.chunk.css.map",
@@ -24,9 +24,9 @@
     "static/media/AlleghenyCollegeLogo.png": "/developerFolio/static/media/AlleghenyCollegeLogo.fb8f493d.png",
     "static/media/AlleghenyLogo.png": "/developerFolio/static/media/AlleghenyLogo.34add73a.png",
     "static/media/CoVarLogo.png": "/developerFolio/static/media/CoVarLogo.3937699b.png",
-    "static/media/Hopsify_Logo_thumbnail.jpg": "/developerFolio/static/media/Hopsify_Logo_thumbnail.8e4710fa.jpg",
-    "static/media/Sportivo_logo_thumbnail.jpg": "/developerFolio/static/media/Sportivo_logo_thumbnail.6cc6cb9e.jpg",
-    "static/media/Teachers_Protect_Logo_thumbnail.jpg": "/developerFolio/static/media/Teachers_Protect_Logo_thumbnail.997cedff.jpg",
+    "static/media/Hopsify-Logo_thumbnail.jpg": "/developerFolio/static/media/Hopsify-Logo_thumbnail.8e4710fa.jpg",
+    "static/media/SportivoBaleno-Logo_thumbnail.jpg": "/developerFolio/static/media/SportivoBaleno-Logo_thumbnail.6cc6cb9e.jpg",
+    "static/media/TeachersProtect-Logo_thumbnail.jpg": "/developerFolio/static/media/TeachersProtect-Logo_thumbnail.997cedff.jpg",
     "static/media/codeInLogo.webp": "/developerFolio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailFemale.svg": "/developerFolio/static/media/contactMailFemale.b9b947ec.svg",
     "static/media/devshoplogo.png": "/developerFolio/static/media/devshoplogo.8340b0f8.png",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.da018c69.js",
     "static/js/2.aeff588d.chunk.js",
     "static/css/main.7354f574.chunk.css",
-    "static/js/main.03d581fc.chunk.js"
+    "static/js/main.c463027a.chunk.js"
   ]
 }
