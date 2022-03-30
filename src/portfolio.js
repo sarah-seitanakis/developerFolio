@@ -272,7 +272,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/Hopsify_Logo_thumbnail.jpg"),
+      image: require("./assets/images/project-images/Hopsify-Logo_thumbnail.jpg"),
       projectName: "Hopsify",
       projectDesc:
         "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
@@ -300,7 +300,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/Teachers_Protect_Logo_thumbnail.jpg"),
+      image: require("./assets/images/project-images/TeachersProtect-Logo_thumbnail.jpg"),
       projectName: "Teachers Protect",
       projectDesc:
         "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
@@ -316,7 +316,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/Sportivo_logo_thumbnail.jpg"),
+      image: require("./assets/images/project-images/SportivoBaleno-Logo_thumbnail.jpg"),
       projectName: "Sportivo Baleno",
       projectDesc:
         "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
