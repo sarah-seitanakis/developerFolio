@@ -110,10 +110,10 @@ https://fontawesome.com/icons?d=gallery */
     //   skillName: "swift",
     //   fontAwesomeClassname: "fab fa-swift"
     // },
-    // {
-    //   skillName: "npm",
-    //   fontAwesomeClassname: "fab fa-npm"
-    // },
+    {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
+    },
     // {
     //   skillName: "sql-database",
     //   fontAwesomeClassname: "fas fa-database"
@@ -292,11 +292,11 @@ const bigProjects = {
         {
           name: "Veiw Pamphlet",
           url: "https://drive.google.com/file/d/1D-6TYUsA_FHbi2lm-MW_wTRi9Jh6JNlj/view?usp=sharing"
-        },
-        {
-          name: "Veiw Logo",
-          url: "https://drive.google.com/file/d/1DW-YIXkHo6Bn8WI0Gl1h92RRhUFFQXIs/view?usp=sharing"
         }
+        // {
+        //   name: "Veiw Logo",
+        //   url: "https://drive.google.com/file/d/1DW-YIXkHo6Bn8WI0Gl1h92RRhUFFQXIs/view?usp=sharing"
+        // }
       ]
     },
     {
