@@ -145,7 +145,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Allegheny College",
-      logo: require("./assets/images/AlleghenyCollegeLogo.png"),
+      logo: require("./assets/images/AlleghenyLogo.png"),
       subHeader:
         "Bachelor of Science in Physics – Studio Art & Mathematics Minors",
       duration: "August 2015 - May 2020",
@@ -192,7 +192,7 @@ const workExperiences = {
     {
       role: "Research Engineer",
       company: "CoVar",
-      companylogo: require("./assets/images/CoVarLogo.png"),
+      companylogo: require("./assets/images/CoVar_Logo.png"),
       date: "September 2020 – Present",
       desc: "At CoVar I contribute to several large scale projects, which has given me the opportunity to learn and grow as a developer.",
       descBullets: [
@@ -209,7 +209,7 @@ const workExperiences = {
     {
       role: "User Experience Designer",
       company: "The Dev Shop",
-      companylogo: require("./assets/images/devshoplogo.png"),
+      companylogo: require("./assets/images/TheDevShop_Logo.png"),
       date: "July 2017 – June 2020",
       desc: "I thoroughly enjoyed my time working at The Dev Shop under the supervision and mentorship of Andrew Hein.",
       descBullets: [
@@ -241,7 +241,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -272,19 +272,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/Sportivo_Logo_thumbnail.jpg"),
-      projectName: "Sportivo Baleno",
-      projectDesc:
-        "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
-      footerLink: [
-        {
-          name: "Veiw Logo & Info",
-          url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/project-images/Hopsify_Logo_thumbnail.jpg"),
+      image: require("./assets/images/project-images/Hopsify_Logo.png"),
       projectName: "Hopsify",
       projectDesc:
         "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
@@ -312,7 +300,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project-images/Teachers_Protect_Logo_thumbnail.jpg"),
+      image: require("./assets/images/project-images/TeachersProtect_Logo.png"),
       projectName: "Teachers Protect",
       projectDesc:
         "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
@@ -324,6 +312,18 @@ const bigProjects = {
         {
           name: "Veiw Logo & Info",
           url: "https://xd.adobe.com/view/c7435fe1-3b20-4ee5-7189-f98412cb51ee-b172/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/project-images/SportivoBaleno_Logo.png"),
+      projectName: "Sportivo Baleno",
+      projectDesc:
+        "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
+      footerLink: [
+        {
+          name: "Veiw Logo & Info",
+          url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
         }
       ]
     }
