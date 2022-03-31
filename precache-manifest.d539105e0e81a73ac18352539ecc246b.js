@@ -1,75 +1,75 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8c9218a022dd832801f69c70157fe74",
+    "revision": "185ffbade6d0300e47fdc6dc9df4816c",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "4eb87ff6f1fb39432bd9",
+    "revision": "2d9d3d46a7c118823cdc",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "c94662e04e2fc10346da",
+    "revision": "03bba90ddfcb5aba7167",
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "4a616f073980993be408",
+    "revision": "0c7fb741dd260f773c30",
     "url": "/developerFolio/static/css/main.7354f574.chunk.css"
   },
   {
-    "revision": "f447d7dffe68b21989cd",
-    "url": "/developerFolio/static/js/2.aeff588d.chunk.js"
+    "revision": "d7cc6dbad51d6f936696",
+    "url": "/developerFolio/static/js/2.e5037481.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/developerFolio/static/js/2.aeff588d.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.e5037481.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4eb87ff6f1fb39432bd9",
-    "url": "/developerFolio/static/js/3.625aa6e9.chunk.js"
+    "revision": "2d9d3d46a7c118823cdc",
+    "url": "/developerFolio/static/js/3.52fb1780.chunk.js"
   },
   {
-    "revision": "c94662e04e2fc10346da",
-    "url": "/developerFolio/static/js/4.011c95b8.chunk.js"
+    "revision": "03bba90ddfcb5aba7167",
+    "url": "/developerFolio/static/js/4.6d9e7a09.chunk.js"
   },
   {
-    "revision": "4a616f073980993be408",
-    "url": "/developerFolio/static/js/main.619021fb.chunk.js"
+    "revision": "0c7fb741dd260f773c30",
+    "url": "/developerFolio/static/js/main.feda0448.chunk.js"
   },
   {
-    "revision": "45fa6910bca51af9893c",
-    "url": "/developerFolio/static/js/runtime-main.da018c69.js"
+    "revision": "62517568ee1e98073106",
+    "url": "/developerFolio/static/js/runtime-main.84940fb6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/developerFolio/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "fb8f493d4f628cce673d9be7c96ac3b3",
-    "url": "/developerFolio/static/media/AlleghenyCollegeLogo.fb8f493d.png"
-  },
-  {
     "revision": "34add73af4743f17494d52368bd5644e",
     "url": "/developerFolio/static/media/AlleghenyLogo.34add73a.png"
   },
   {
-    "revision": "3937699bd995966023001dc363a4c4ac",
-    "url": "/developerFolio/static/media/CoVarLogo.3937699b.png"
+    "revision": "dc9a738b131f27d57e9cd9287a70cb52",
+    "url": "/developerFolio/static/media/CoVar_Logo.dc9a738b.png"
   },
   {
-    "revision": "8e4710fa8a658a99c37cf23659159dc3",
-    "url": "/developerFolio/static/media/Hopsify_Logo_thumbnail.8e4710fa.jpg"
+    "revision": "9e145457e79befc366d87175afbaa172",
+    "url": "/developerFolio/static/media/Hopsify_Logo.9e145457.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "6cc6cb9e254e7b7aa7c909cfe88b2a33",
-    "url": "/developerFolio/static/media/Sportivo_Logo_thumbnail.6cc6cb9e.jpg"
+    "revision": "dfaccc002e4b9f9385136888bd255713",
+    "url": "/developerFolio/static/media/SportivoBaleno_Logo.dfaccc00.png"
   },
   {
-    "revision": "997cedff6bf9b6f14031021c1c57cf1a",
-    "url": "/developerFolio/static/media/Teachers_Protect_Logo_thumbnail.997cedff.jpg"
+    "revision": "98035be93c9a2feaebfaccb09b8ae5ab",
+    "url": "/developerFolio/static/media/TeachersProtect_Logo.98035be9.png"
+  },
+  {
+    "revision": "a9dd3bbb4a48aad34c1e68104311413d",
+    "url": "/developerFolio/static/media/TheDevShop_Logo.a9dd3bbb.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b9b947ec452ee437f83391544c9c1b25",
     "url": "/developerFolio/static/media/contactMailFemale.b9b947ec.svg"
-  },
-  {
-    "revision": "8340b0f89b7f63a114e5ec4592e01cfd",
-    "url": "/developerFolio/static/media/devshoplogo.8340b0f8.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
