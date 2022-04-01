@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.aee6575c.chunk.css",
-    "main.js": "/developerFolio/static/js/main.e6a965da.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.e6a965da.chunk.js.map",
-    "runtime-main.js": "/developerFolio/static/js/runtime-main.84940fb6.js",
-    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.84940fb6.js.map",
-    "static/js/2.e5037481.chunk.js": "/developerFolio/static/js/2.e5037481.chunk.js",
-    "static/js/2.e5037481.chunk.js.map": "/developerFolio/static/js/2.e5037481.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.b1ccf9d7.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.b1ccf9d7.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.da018c69.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.da018c69.js.map",
+    "static/js/2.131fc318.chunk.js": "/developerFolio/static/js/2.131fc318.chunk.js",
+    "static/js/2.131fc318.chunk.js.map": "/developerFolio/static/js/2.131fc318.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/developerFolio/static/css/3.df879eac.chunk.css",
-    "static/js/3.52fb1780.chunk.js": "/developerFolio/static/js/3.52fb1780.chunk.js",
-    "static/js/3.52fb1780.chunk.js.map": "/developerFolio/static/js/3.52fb1780.chunk.js.map",
+    "static/js/3.625aa6e9.chunk.js": "/developerFolio/static/js/3.625aa6e9.chunk.js",
+    "static/js/3.625aa6e9.chunk.js.map": "/developerFolio/static/js/3.625aa6e9.chunk.js.map",
     "static/css/4.e91a4b36.chunk.css": "/developerFolio/static/css/4.e91a4b36.chunk.css",
-    "static/js/4.6d9e7a09.chunk.js": "/developerFolio/static/js/4.6d9e7a09.chunk.js",
-    "static/js/4.6d9e7a09.chunk.js.map": "/developerFolio/static/js/4.6d9e7a09.chunk.js.map",
+    "static/js/4.011c95b8.chunk.js": "/developerFolio/static/js/4.011c95b8.chunk.js",
+    "static/js/4.011c95b8.chunk.js.map": "/developerFolio/static/js/4.011c95b8.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.f1a07bb74c9ff3d0fa4bc88d988bc953.js": "/developerFolio/precache-manifest.f1a07bb74c9ff3d0fa4bc88d988bc953.js",
+    "precache-manifest.9167d211073b2de58bdd3b1f6067edd7.js": "/developerFolio/precache-manifest.9167d211073b2de58bdd3b1f6067edd7.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/developerFolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/developerFolio/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.aee6575c.chunk.css.map": "/developerFolio/static/css/main.aee6575c.chunk.css.map",
-    "static/js/2.e5037481.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.e5037481.chunk.js.LICENSE.txt",
+    "static/js/2.131fc318.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.131fc318.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/AlleghenyLogo.png": "/developerFolio/static/media/AlleghenyLogo.34add73a.png",
     "static/media/CoVar_Logo.png": "/developerFolio/static/media/CoVar_Logo.dc9a738b.png",
@@ -27,6 +27,7 @@
     "static/media/SportivoBaleno_Logo.png": "/developerFolio/static/media/SportivoBaleno_Logo.dfaccc00.png",
     "static/media/TeachersProtect_Logo.png": "/developerFolio/static/media/TeachersProtect_Logo.98035be9.png",
     "static/media/TheDevShop_Logo.png": "/developerFolio/static/media/TheDevShop_Logo.a9dd3bbb.png",
+    "static/media/Translator_Logo.png": "/developerFolio/static/media/Translator_Logo.ad0cb029.png",
     "static/media/codeInLogo.webp": "/developerFolio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailFemale.svg": "/developerFolio/static/media/contactMailFemale.b9b947ec.svg",
     "static/media/googleAssistantLogo.webp": "/developerFolio/static/media/googleAssistantLogo.e79c6392.webp",
@@ -38,9 +39,9 @@
     "static/media/undraw_dev_focus_re_6iwt.svg": "/developerFolio/static/media/undraw_dev_focus_re_6iwt.84e4319d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84940fb6.js",
-    "static/js/2.e5037481.chunk.js",
+    "static/js/runtime-main.da018c69.js",
+    "static/js/2.131fc318.chunk.js",
     "static/css/main.aee6575c.chunk.css",
-    "static/js/main.e6a965da.chunk.js"
+    "static/js/main.b1ccf9d7.chunk.js"
   ]
 }
