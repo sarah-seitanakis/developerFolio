@@ -251,13 +251,33 @@ const bigProjects = {
   subtitle: emoji("CHECK OUT SOME OF MY WORK 👀"),
   projects: [
     {
+      image: require("./assets/images/project-images/Translator_Logo.png"),
+      projectName: "Contribution to Biomedical Data Translator",
+      projectDesc:
+        "Work within the constraints and requirements provided by the consortium to create Ranking Agent's UI and conduct user research – Work done at CoVar",
+      footerLink: [
+        {
+          name: "UI Walkthrough",
+          url: "https://drive.google.com/file/d/18EDAO0QZu5EatDidZCYose8aNfJhiwCX/view?usp=sharing"
+        },
+        {
+          name: "UI Implementation",
+          url: "https://qgraph.org/question"
+        },
+        {
+          name: "See more",
+          url: ""
+        }
+      ]
+    },
+    {
       image: require("./assets/images/project-images/SeniorThesis/starsmasherFigure.png"),
       projectName: "Senior Thesis",
       projectDesc:
         "Simulating Black Hole Accretion & Feedback During a Collision with a Star – Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
       footerLink: [
         {
-          name: "Veiw Paper",
+          name: "Research Paper",
           url: "https://drive.google.com/file/d/1PW1WLiLfkDXCPxbBkUtcdQMTl4FLFJT4/view?usp=sharing"
         }
         // {
@@ -278,19 +298,19 @@ const bigProjects = {
         "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
       footerLink: [
         {
-          name: "View Web App",
+          name: "Web App",
           url: "https://xd.adobe.com/view/f5b38a4e-142c-44dd-6805-a7c2357a0ba4-8382/"
         },
         {
-          name: "View Marketing Site",
+          name: "Marketing Site",
           url: "https://xd.adobe.com/view/b44c79e9-a9f9-49c4-7c11-297068bfbce8-c27d/"
         },
         {
-          name: "Veiw Mobile App",
+          name: "Mobile App",
           url: "https://xd.adobe.com/view/23ce4cce-9505-4235-48e0-700cafc29154-55ff/"
         },
         {
-          name: "Veiw Pamphlet",
+          name: "Brochure",
           url: "https://drive.google.com/file/d/1D-6TYUsA_FHbi2lm-MW_wTRi9Jh6JNlj/view?usp=sharing"
         }
         // {
@@ -306,11 +326,11 @@ const bigProjects = {
         "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
       footerLink: [
         {
-          name: "Veiw Pamphlet",
+          name: "Brochure",
           url: "https://drive.google.com/file/d/1dwnMaAQBuzldqEtAcEgTKH9cgyMwUKOg/view?usp=sharing"
         },
         {
-          name: "Veiw Logo & Info",
+          name: "Logo & Info",
           url: "https://xd.adobe.com/view/c7435fe1-3b20-4ee5-7189-f98412cb51ee-b172/"
         }
       ]
@@ -322,7 +342,7 @@ const bigProjects = {
         "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
       footerLink: [
         {
-          name: "Veiw Logo & Info",
+          name: "Logo & Info",
           url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
         }
       ]
