@@ -23,10 +23,10 @@ const greeting = {
   username: "Sarah Seitanakis",
   title: "Hi all, I'm Sarah",
   subTitle: emoji(
-    "A passionate Designer, Developer, Researcher, and Artist ✨" // I have experience of designing Web and Mobile applications using Adobe XD and developing software with Python / HTML / CSS / Reactjs and some other cool libraries and frameworks."
+    "A passionate Designer, Developer, Researcher, and Artist ✨" // I have experience of designing Web and Mobile applications using Adobe XD and developing software with Python / HTML / CSS and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1kVID2ZOdVGyrdMVsG1O-eMYqNrqGfuUH/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1cxaaG97jx1bxD8Pwbf6nMZgCuQoh70uo/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -50,15 +50,18 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "CREATIVE PROBLEM-SOLVER WHO DOES WHATEVER IT TAKES TO FIND A SOLUTION",
+    "CREATIVE, EMPATHETIC PROBLEM-SOLVER WHO ADVOCATES FOR END_USERS",
   skills: [
     emoji(
-      "⚡ Develops highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develops low and high fidelity UI designs for web and mobile applications"
     ),
     emoji(
       "⚡ Conducts interviews with users to produce relevant feedback for developers"
     ),
-    emoji("⚡ Works in teams of both technical and design professionals"),
+    emoji("⚡ Facilitates internal ideation sessions, and external user-feedback sessions"),
+    emoji("⚡ Writes clear documentation for designs, including design research and strategy"),
+    emoji("⚡ Works successfully in teams of both technical and design professionals"),
+    emoji("⚡ Presents design materials to stakeholders on a regular basis"),
     emoji("⚡ Analyzes data and creates complex data visualizations")
   ],
 
@@ -166,7 +169,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -266,7 +269,7 @@ const bigProjects = {
         },
         {
           name: "See more",
-          url: ""
+          url: "https://drive.google.com/drive/folders/1zPVTEUI_At60X_Xnut5J1-3iM2uIy8dS?usp=sharing"
         }
       ]
     },
@@ -309,9 +312,13 @@ const bigProjects = {
           name: "Mobile App",
           url: "https://xd.adobe.com/view/23ce4cce-9505-4235-48e0-700cafc29154-55ff/"
         },
+        // {
+        //   name: "Brochure",
+        //   url: "https://drive.google.com/file/d/1D-6TYUsA_FHbi2lm-MW_wTRi9Jh6JNlj/view?usp=sharing"
+        // },
         {
-          name: "Brochure",
-          url: "https://drive.google.com/file/d/1D-6TYUsA_FHbi2lm-MW_wTRi9Jh6JNlj/view?usp=sharing"
+          name: "See more",
+          url: "https://drive.google.com/drive/folders/1zPVTEUI_At60X_Xnut5J1-3iM2uIy8dS?usp=sharing"
         }
         // {
         //   name: "Veiw Logo",
