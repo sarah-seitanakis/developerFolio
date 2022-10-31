@@ -58,8 +58,12 @@ const skillsSection = {
     emoji(
       "⚡ Conducts interviews with users to produce relevant feedback for developers"
     ),
-    emoji("⚡ Facilitates internal ideation sessions, and external user-feedback sessions"),
-    emoji("⚡ Writes clear documentation for designs, including design research and strategy"),
+    emoji(
+      "⚡ Facilitates internal ideation sessions, and external user-feedback sessions"
+    ),
+    emoji(
+      "⚡ Writes clear documentation for designs, including design research and strategy"
+    ),
     emoji("⚡ Works successfully in teams of both technical and design professionals"),
     emoji("⚡ Presents design materials to stakeholders on a regular basis"),
     emoji("⚡ Analyzes data and creates complex data visualizations")
