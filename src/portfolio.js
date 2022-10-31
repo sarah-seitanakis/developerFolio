@@ -155,7 +155,7 @@ const educationInfo = {
       schoolName: "Allegheny College",
       logo: require("./assets/images/AlleghenyLogo.png"),
       subHeader:
-        "Bachelor of Science in Physics – Studio Art & Mathematics Minors",
+        "Bachelor of Science in Physics - Studio Art & Mathematics Minors",
       duration: "August 2015 - May 2020",
       desc: "My education was rigorous in both science and visual arts. This background gives me a unique approach to problem solving and ideation. Through completing my Senior Thesis, I learned how to take the lead on a large, independently motivated project. Presenting and defending this project solidified my oral and written communication skills.",
       descBullets: [
@@ -201,14 +201,14 @@ const workExperiences = {
       role: "Research Engineer",
       company: "CoVar",
       companylogo: require("./assets/images/CoVar_Logo.png"),
-      date: "September 2020 – Present",
+      date: "September 2020 - Present",
       desc: "At CoVar I contribute to several large scale projects, which has given me the opportunity to learn and grow as a developer.",
       descBullets: [
         "Creates high-fidelity, interactive prototypes/designs of web applications for developers to implement.",
         "Conducts interviews with users to produce relevant feedback for developers.",
         "Writes software to the specification of team leads using Python 3.",
         "Follows formatting standards to create readable, concise code.",
-        "Provides code reviews for other developers’ GitHub Pull Requests.",
+        "Provides code reviews for other developers' GitHub Pull Requests.",
         "Carries out statistical studies to determine performance of machine learning models.",
         "Analyzes data and creates complex data visualizations.",
         "Presents materials to customers on a regular basis.",
@@ -218,7 +218,7 @@ const workExperiences = {
       role: "User Experience Designer",
       company: "The Dev Shop",
       companylogo: require("./assets/images/TheDevShop_Logo.png"),
-      date: "July 2017 – June 2020",
+      date: "July 2017 - June 2020",
       desc: "I thoroughly enjoyed my time working at The Dev Shop under the supervision and mentorship of Andrew Hein.",
       descBullets: [
         "Converted project specifications into drawings and other materials that were used to create applications for customers.",
@@ -232,7 +232,7 @@ const workExperiences = {
       role: "Computational Astrophysics Researcher",
       company: "Allegheny Physics Department",
       companylogo: require("./assets/images/AlleghenyLogo.png"),
-      date: "July 2019 – June 2020",
+      date: "July 2019 - June 2020",
       desc: "As a researcher in Dr. James C. Lombardi's lab, I got to explore and solve exciting computational problems and work collaboratively in a team.",
       descBullets: [
         "Collaborated with a 3-student team to write a new one-dimensional smoothed particle hydrodynamics code.",
@@ -262,7 +262,7 @@ const bigProjects = {
       image: require("./assets/images/project-images/Translator_Logo.png"),
       projectName: "Contribution to Biomedical Data Translator",
       projectDesc:
-        "Work within the constraints and requirements provided by the consortium to create Ranking Agent's UI and conduct user research – Work done at CoVar",
+        "Work within the constraints and requirements provided by the consortium to create Ranking Agent's UI and conduct user research - Work done at CoVar",
       footerLink: [
         {
           name: "UI Walkthrough",
@@ -282,7 +282,7 @@ const bigProjects = {
       image: require("./assets/images/project-images/SeniorThesis/starsmasherFigure.png"),
       projectName: "Senior Thesis",
       projectDesc:
-        "Simulating Black Hole Accretion & Feedback During a Collision with a Star – Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
+        "Simulating Black Hole Accretion & Feedback During a Collision with a Star - Work done at Allegheny College, Physics Department in the lab of Dr. James C. Lombardi",
       footerLink: [
         {
           name: "Research Paper",
@@ -303,7 +303,7 @@ const bigProjects = {
       image: require("./assets/images/project-images/Hopsify_Logo.png"),
       projectName: "Hopsify",
       projectDesc:
-        "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system – Work done at The Dev Shop – 2019",
+        "Product design, Branding, Marketing for a startup that sells a Beer Distributor POS system - Work done at The Dev Shop - 2019",
       footerLink: [
         {
           name: "Web App",
@@ -335,7 +335,7 @@ const bigProjects = {
       image: require("./assets/images/project-images/TeachersProtect_Logo.png"),
       projectName: "Teachers Protect",
       projectDesc:
-        "Logo and Brochure Design for a startup that sells an app for school security – Work done at The Dev Shop – 2019",
+        "Logo and Brochure Design for a startup that sells an app for school security - Work done at The Dev Shop - 2019",
       footerLink: [
         {
           name: "Brochure",
@@ -351,7 +351,7 @@ const bigProjects = {
       image: require("./assets/images/project-images/SportivoBaleno_Logo.png"),
       projectName: "Sportivo Baleno",
       projectDesc:
-        "Logo Design for a Sports Psychology startup – Work done at The Dev Shop – 2019",
+        "Logo Design for a Sports Psychology startup - Work done at The Dev Shop - 2019",
       footerLink: [
         {
           name: "Logo & Info",
