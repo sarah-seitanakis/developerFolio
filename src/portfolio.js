@@ -10,13 +10,13 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 2000, // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
 
 const illustration = {
-  animated: false // Set to false to use static SVG
+  animated: false, // Set to false to use static SVG
 };
 
 const greeting = {
@@ -27,7 +27,7 @@ const greeting = {
   ),
   resumeLink:
     "https://drive.google.com/file/d/1cxaaG97jx1bxD8Pwbf6nMZgCuQoh70uo/view?usp=sharing", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+  displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
@@ -42,15 +42,14 @@ const socialMediaLinks = {
   //   stackoverflow: "https://stackoverflow.com/users/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
-  display: true // Set true to display this section, defaults to false
+  display: true, // Set true to display this section, defaults to false
 };
 
 // Skills Section
 
 const skillsSection = {
   title: "What I do",
-  subTitle:
-    "CREATIVE, EMPATHETIC PROBLEM-SOLVER WHO ADVOCATES FOR END_USERS",
+  subTitle: "CREATIVE, EMPATHETIC PROBLEM-SOLVER WHO ADVOCATES FOR END_USERS",
   skills: [
     emoji(
       "⚡ Develops low and high fidelity UI designs for web and mobile applications"
@@ -64,9 +63,11 @@ const skillsSection = {
     emoji(
       "⚡ Writes clear documentation, including for design research and strategy"
     ),
-    emoji("⚡ Works successfully in teams of both technical and design professionals"),
+    emoji(
+      "⚡ Works successfully in teams of both technical and design professionals"
+    ),
     emoji("⚡ Presents design materials to stakeholders on a regular basis"),
-    emoji("⚡ Analyzes data and creates complex data visualizations")
+    emoji("⚡ Analyzes data and creates complex data visualizations"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -75,31 +76,31 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "linux",
-      fontAwesomeClassname: "fab fa-linux"
+      fontAwesomeClassname: "fab fa-linux",
     },
     {
       skillName: "apple",
-      fontAwesomeClassname: "fab fa-apple"
+      fontAwesomeClassname: "fab fa-apple",
     },
     {
       skillName: "sketch",
-      fontAwesomeClassname: "fab fa-sketch"
+      fontAwesomeClassname: "fab fa-sketch",
     },
     {
       skillName: "git",
-      fontAwesomeClassname: "fab fa-git"
+      fontAwesomeClassname: "fab fa-git",
     },
     {
       skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      fontAwesomeClassname: "fab fa-html5",
     },
     {
       skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      fontAwesomeClassname: "fab fa-css3-alt",
     },
     {
       skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      fontAwesomeClassname: "fab fa-sass",
     },
     // {
     //   skillName: "JavaScript",
@@ -119,7 +120,7 @@ https://fontawesome.com/icons?d=gallery */
     // },
     {
       skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      fontAwesomeClassname: "fab fa-npm",
     },
     // {
     //   skillName: "sql-database",
@@ -131,18 +132,18 @@ https://fontawesome.com/icons?d=gallery */
     // },
     {
       skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      fontAwesomeClassname: "fab fa-python",
     },
     {
       skillName: "stack-overflow",
-      fontAwesomeClassname: "fab fa-stack-overflow"
-    }
+      fontAwesomeClassname: "fab fa-stack-overflow",
+    },
     // {
     //   skillName: "docker",
     //   fontAwesomeClassname: "fab fa-docker"
     // }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Education Section
@@ -164,10 +165,10 @@ const educationInfo = {
         "Mathematics courses featured Linear Algebra, Multivariate Calculus, Differential Equations, and other advanced topics",
         "Highlight Studio Art courses: 'The Creative Process' course, Art History, Art & Technology, and an advanced project series in Ceramics",
         "Excelled at the Writing and Comunication portions of Allegheny's curriculum",
-        "Recieved Latin Honors: Magna Cum Laude"
-      ]
-    }
-  ]
+        "Recieved Latin Honors: Magna Cum Laude",
+      ],
+    },
+  ],
 };
 
 // Your top 3 proficient stacks/tech experience
@@ -177,18 +178,18 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "80%" //Insert relative proficiency in percentage
+      progressPercentage: "80%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "50%"
+      progressPercentage: "50%",
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
-    }
+      progressPercentage: "60%",
+    },
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -210,8 +211,8 @@ const workExperiences = {
         "Provides code reviews for other developers’ GitHub Pull Requests.",
         "Carries out statistical studies to determine performance of machine learning models.",
         "Analyzes data and creates complex data visualizations.",
-        "Presents materials to customers on a regular basis."
-      ]
+        "Presents materials to customers on a regular basis.",
+      ],
     },
     {
       role: "User Experience Designer",
@@ -224,8 +225,8 @@ const workExperiences = {
         "Created interactive prototypes of websites and applications.",
         "Developed creative design for marketing packages, including logos, web materials, and brochures.",
         "Brainstormed with peers and other members of design team to determine enhancements and product features.",
-        "Suggested enhancements to product design that would improve user experience."
-      ]
+        "Suggested enhancements to product design that would improve user experience.",
+      ],
     },
     {
       role: "Computational Astrophysics Researcher",
@@ -237,10 +238,10 @@ const workExperiences = {
         "Collaborated with a 3-student team to write a new one-dimensional smoothed particle hydrodynamics code.",
         "Authored a tutorial on how to use the astrophysical simulation code and the data visualization programs",
         "Developed creative design for marketing paCreated site layout and user interface using HTML and CSS practices to give students and other researchers access to the aforementioned tutorial.ckages, including logos, web materials, and brochures",
-        "Implemented version control using Git; updated and maintained the GitHub webpage for research group"
-      ]
-    }
-  ]
+        "Implemented version control using Git; updated and maintained the GitHub webpage for research group",
+      ],
+    },
+  ],
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
@@ -248,7 +249,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -265,17 +266,17 @@ const bigProjects = {
       footerLink: [
         {
           name: "UI Walkthrough",
-          url: "https://drive.google.com/file/d/18EDAO0QZu5EatDidZCYose8aNfJhiwCX/view?usp=sharing"
+          url: "https://drive.google.com/file/d/18EDAO0QZu5EatDidZCYose8aNfJhiwCX/view?usp=sharing",
         },
         {
           name: "UI Implementation",
-          url: "https://qgraph.org/question"
+          url: "https://qgraph.org/question",
         },
         {
           name: "See more",
-          url: "https://drive.google.com/drive/folders/1zPVTEUI_At60X_Xnut5J1-3iM2uIy8dS?usp=sharing"
-        }
-      ]
+          url: "https://drive.google.com/drive/folders/1zPVTEUI_At60X_Xnut5J1-3iM2uIy8dS?usp=sharing",
+        },
+      ],
     },
     {
       image: require("./assets/images/project-images/SeniorThesis/starsmasherFigure.png"),
@@ -285,8 +286,8 @@ const bigProjects = {
       footerLink: [
         {
           name: "Research Paper",
-          url: "https://drive.google.com/file/d/1PW1WLiLfkDXCPxbBkUtcdQMTl4FLFJT4/view?usp=sharing"
-        }
+          url: "https://drive.google.com/file/d/1PW1WLiLfkDXCPxbBkUtcdQMTl4FLFJT4/view?usp=sharing",
+        },
         // {
         //   name: "Veiw Poster",
         //   url: ""
@@ -296,7 +297,7 @@ const bigProjects = {
         //   url: ""
         // }
         //  you can add extra buttons here.
-      ]
+      ],
     },
     {
       image: require("./assets/images/project-images/Hopsify_Logo.png"),
@@ -306,15 +307,15 @@ const bigProjects = {
       footerLink: [
         {
           name: "Web App",
-          url: "https://xd.adobe.com/view/f5b38a4e-142c-44dd-6805-a7c2357a0ba4-8382/"
+          url: "https://xd.adobe.com/view/f5b38a4e-142c-44dd-6805-a7c2357a0ba4-8382/",
         },
         {
           name: "Marketing Site",
-          url: "https://xd.adobe.com/view/b44c79e9-a9f9-49c4-7c11-297068bfbce8-c27d/"
+          url: "https://xd.adobe.com/view/b44c79e9-a9f9-49c4-7c11-297068bfbce8-c27d/",
         },
         {
           name: "Mobile App",
-          url: "https://xd.adobe.com/view/23ce4cce-9505-4235-48e0-700cafc29154-55ff/"
+          url: "https://xd.adobe.com/view/23ce4cce-9505-4235-48e0-700cafc29154-55ff/",
         },
         // {
         //   name: "Brochure",
@@ -322,13 +323,13 @@ const bigProjects = {
         // },
         {
           name: "See more",
-          url: "https://drive.google.com/drive/folders/1zPVTEUI_At60X_Xnut5J1-3iM2uIy8dS?usp=sharing"
-        }
+          url: "https://drive.google.com/drive/folders/1zPVTEUI_At60X_Xnut5J1-3iM2uIy8dS?usp=sharing",
+        },
         // {
         //   name: "Veiw Logo",
         //   url: "https://drive.google.com/file/d/1DW-YIXkHo6Bn8WI0Gl1h92RRhUFFQXIs/view?usp=sharing"
         // }
-      ]
+      ],
     },
     {
       image: require("./assets/images/project-images/TeachersProtect_Logo.png"),
@@ -338,13 +339,13 @@ const bigProjects = {
       footerLink: [
         {
           name: "Brochure",
-          url: "https://drive.google.com/file/d/1dwnMaAQBuzldqEtAcEgTKH9cgyMwUKOg/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1dwnMaAQBuzldqEtAcEgTKH9cgyMwUKOg/view?usp=sharing",
         },
         {
           name: "Logo & Info",
-          url: "https://xd.adobe.com/view/c7435fe1-3b20-4ee5-7189-f98412cb51ee-b172/"
-        }
-      ]
+          url: "https://xd.adobe.com/view/c7435fe1-3b20-4ee5-7189-f98412cb51ee-b172/",
+        },
+      ],
     },
     {
       image: require("./assets/images/project-images/SportivoBaleno_Logo.png"),
@@ -354,12 +355,12 @@ const bigProjects = {
       footerLink: [
         {
           name: "Logo & Info",
-          url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/"
-        }
-      ]
-    }
+          url: "https://xd.adobe.com/view/c928dc8f-d2a1-4675-508f-0021a78db4bd-bf19/",
+        },
+      ],
+    },
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -379,17 +380,17 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing",
         },
         {
           name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing",
         },
         {
           name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
-      ]
+          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html",
+        },
+      ],
     },
     {
       title: "Google Assistant Action",
@@ -399,9 +400,9 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en",
+        },
+      ],
     },
 
     {
@@ -409,15 +410,15 @@ const achievementSection = {
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/pwaLogo.webp"),
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         {
           name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
+          url: "https://pakistan-olx-1.firebaseapp.com/",
+        },
+      ],
+    },
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -432,16 +433,16 @@ const blogSection = {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?",
     },
     {
       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
       title: "Why REACT is The Best?",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
+        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.",
+    },
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -457,10 +458,10 @@ const talkSection = {
       title: "Build Actions For Google Assistant",
       subtitle: "Codelab at GDG DevFest Karachi 2019",
       slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
-    }
+      event_url: "https://www.facebook.com/events/2339906106275053/",
+    },
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -471,23 +472,23 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo",
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Want to connect? My Inbox is open for all.",
   number: "(412)722-8560",
-  email_address: "sseitanakis@gmail.com"
+  email_address: "sseitanakis@gmail.com",
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: false // Set true to display this section, defaults to false
+  display: false, // Set true to display this section, defaults to false
 };
 
 export {
@@ -506,5 +507,5 @@ export {
   talkSection,
   podcastSection,
   contactInfo,
-  twitterDetails
+  twitterDetails,
 };
